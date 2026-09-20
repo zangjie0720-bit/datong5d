@@ -200,66 +200,66 @@
     },
     {
       "date": "2026-09-27",
-      "theme": "云冈石窟与辽金古建",
-      "summary": "上午把完整时间交给云冈石窟，午后返回古城参观华严寺。",
+      "theme": "华严寺与云冈石窟",
+      "summary": "上午先看华严寺并提前午餐，约12点进入云冈石窟，利用午间换场窗口保留完整讲解与摄影时间。",
       "periods": {
         "morning": {
-          "title": "云冈石窟",
-          "description": "尽早抵达云冈石窟，优先参加官方讲解，慢看昙曜五窟、中区洞窟与露天大佛并预留拍摄时间。"
+          "title": "华严寺与提前午餐",
+          "description": "开门后进入华严寺，重点观察薄伽教藏殿、大雄宝殿与辽金木构；10:40左右离开并在古城提前午餐。"
         },
         "afternoon": {
-          "title": "华严寺",
-          "description": "返回古城午餐后进入华严寺，重点观察薄伽教藏殿、大雄宝殿及辽金木构细节。"
+          "title": "云冈石窟",
+          "description": "约12点入园，先按热门洞窟排队情况灵活排序，再参加官方讲解并把下午暖光留给崖面与露天大佛。"
         },
         "evening": {
-          "title": "鼓楼街区",
-          "description": "沿华严寺至四牌楼一带顺路浏览文创和地方特产，只购买便于双肩包携带的小件。"
+          "title": "古城晚餐与文创",
+          "description": "闭园后返回古城用餐，只顺路浏览文创和地方特产，不为购物压缩石窟时间。"
         }
       },
       "stops": [
         {
-          "place_id": "yungang-grottoes",
+          "place_id": "huayan-temple-datong",
           "arrival_time": "08:30",
-          "dwell_minutes": 270,
-          "transport_mode": "景区直通车或公交",
-          "transfer_minutes": 60,
-          "distance_km": 18,
-          "estimated_cost": "门票及讲解以官方渠道为准",
-          "practical_note": "先确认官方讲解场次，露天大佛、昙曜五窟和中区洞窟分别留拍摄时间。",
-          "time_guard": "13:00左右离开，避免压缩华严寺"
+          "dwell_minutes": 120,
+          "transport_mode": "酒店出发打车",
+          "transfer_minutes": 20,
+          "distance_km": 7,
+          "estimated_cost": "门票以官方购票页为准",
+          "practical_note": "开门后先看薄伽教藏殿和大雄宝殿，服从殿内摄影规则；10:30左右结束核心参观。",
+          "time_guard": "最迟10:40离开，为午餐和赴云冈保留缓冲"
         },
         {
           "place_id": "zini-369-sipailou",
-          "arrival_time": "14:15",
-          "dwell_minutes": 65,
-          "transport_mode": "公交或直通车后步行",
-          "transfer_minutes": 60,
-          "distance_km": 18,
-          "estimated_cost": "约¥73/人",
-          "practical_note": "从直通车落点步行到四牌楼店，两人点一荤、一种粗粮和一份凉菜即可；等位过久就改同区备选。",
-          "time_guard": "15:20前离店，确保华严寺有完整参观窗口"
-        },
-        {
-          "place_id": "huayan-temple-datong",
-          "arrival_time": "15:35",
-          "dwell_minutes": 105,
+          "arrival_time": "10:50",
+          "dwell_minutes": 50,
           "transport_mode": "步行",
           "transfer_minutes": 10,
           "distance_km": 0.8,
-          "estimated_cost": "门票以公告为准",
-          "practical_note": "先看薄伽教藏殿和大雄宝殿，服从殿内摄影规则。",
-          "time_guard": "入园截止时间临时提前时改到9月30日"
+          "estimated_cost": "约¥73/人",
+          "practical_note": "两人快速点一荤、一种粗粮和一份凉菜；若等位超过15分钟，立即改同区无需排队的面食。",
+          "time_guard": "11:40前离店，不把午餐延误带进云冈"
+        },
+        {
+          "place_id": "yungang-grottoes",
+          "arrival_time": "12:20",
+          "dwell_minutes": 270,
+          "transport_mode": "网约车或出租车",
+          "transfer_minutes": 40,
+          "distance_km": 20,
+          "estimated_cost": "门票、车费及讲解以实际订单为准",
+          "practical_note": "入园先观察第5、6窟队伍；排队短就先进入，排队长则先看昙曜五窟和露天大佛，约15:30回访。优先预约官方讲解。",
+          "time_guard": "16:50前完成核心洞窟并向出口移动，17:00闭园"
         },
         {
           "place_id": "datong-ancient-city-gulou-shopping-area",
           "arrival_time": "18:00",
-          "dwell_minutes": 45,
-          "transport_mode": "步行",
-          "transfer_minutes": 15,
-          "distance_km": 1,
-          "estimated_cost": "按需",
-          "practical_note": "只看授权佛小伴、小包装黄花和有作者信息的剪纸。",
-          "time_guard": "18:45结束，不为购物绕路"
+          "dwell_minutes": 60,
+          "transport_mode": "网约车或出租车返回古城",
+          "transfer_minutes": 50,
+          "distance_km": 20,
+          "estimated_cost": "餐饮与购物按需",
+          "practical_note": "先晚餐，再顺路看授权佛小伴、小包装黄花和有作者信息的剪纸。",
+          "time_guard": "19:00后以休息为主，不再增加景点"
         }
       ],
       "shopping_advice": {
@@ -267,42 +267,43 @@
         "description": "文创和食品只选轻量、标签完整、便于双肩包携带的款式。"
       },
       "photo_advice": {
-        "title": "石窟尺度与木构细节",
-        "lighting": "上午柔光看石窟层次，下午侧光表现屋檐。",
+        "title": "辽金木构与石窟暖光",
+        "lighting": "上午利用华严寺较清晰的屋檐光线，下午等待云冈崖面与露天大佛的暖光。",
         "suitable_shots": [
-          "露天大佛与崖面尺度对比",
-          "华严寺鸱吻、斗栱与中轴空间"
+          "华严寺鸱吻、斗栱与中轴空间",
+          "露天大佛与崖面尺度对比"
         ],
-        "portrait_tip": "洞窟内严格遵守禁拍和禁闪光提示，不影响讲解团队。",
+        "portrait_tip": "洞窟内严格遵守禁拍和禁闪光提示，不影响讲解团队；露天区域拍摄先站稳再构图。",
         "shooting_plan": [
           {
-            "time": "09:20",
-            "title": "云冈·崖面",
-            "note": "相机用广角保留环境，手机用主摄避免超广角边缘变形。"
+            "time": "09:10",
+            "title": "华严寺·檐口",
+            "note": "相机中焦抓斗栱与鸱吻，手机轻微欠曝保留天空。"
           },
           {
-            "time": "16:10",
-            "title": "华严寺·檐口",
-            "note": "相机中焦抓斗栱，手机轻微欠曝保留天空。"
+            "time": "15:40",
+            "title": "云冈·崖面暖光",
+            "note": "相机用广角保留环境，手机用主摄避免超广角边缘变形。"
           }
         ],
         "outfit_advice": {
           "women": "浅色针织衫、轻防风外套、长裤和缓震鞋，围巾可作色彩点缀。",
           "men": "灰蓝长袖、薄夹克、深色长裤与防滑运动鞋。",
-          "practical_note": "石窟区域可能有风，带可收纳外层；不携带闪光灯进入受限空间。"
+          "practical_note": "石窟区域下午仍可能有风，带可收纳外层；不携带闪光灯进入受限空间。"
         }
       },
+      "fallback": "遇到天气或开放调整时，优先保留当天主景点与返程缓冲；取消低优先级购物和重复参观，不临时增加跨城移动。",
       "route_screenshots": [
         {
           "file": "media/routes/capture-day-2-1.svg",
           "caption": "第2天 · 总览",
-          "capture_fingerprint": "34a60e0166766a2c4de7c00c9f62519f52c153083d54ef1e27874c4580dbc8af",
-          "sha256": "cef25b2d02996596b73f06f5628dc4d6726449cbd8df0b027c35da2b80cc99ea",
-          "original_capture_sha256": "53072666c3932f2b2388c198d2163435391a5582a2848557cb35f1a6720cb957",
+          "capture_fingerprint": "9d981b4786a0b14c78d2ff3dd4db52338cede00301de1b132b21454f87cfd747",
+          "sha256": "ee6dcb0dc535980ae0047145715020f982daec3208a1f38f6ce53d9ab4894c63",
+          "original_capture_sha256": "c637cb6f719c07336768137264b11976ace8791f2e954474111e8c8e98718b44",
           "compression_signature": "458fa8f6ce24606cdd0934a21ddfe569b532fee18742ae08ea108d9d537c1712",
           "delivery_format": "webp",
-          "delivery_bytes": 126280,
-          "original_bytes": 470558,
+          "delivery_bytes": 128124,
+          "original_bytes": 478564,
           "original_dimensions": [
             1400,
             1100
@@ -312,8 +313,7 @@
             1100
           ]
         }
-      ],
-      "fallback": "遇到天气或开放调整时，优先保留当天主景点与返程缓冲；取消低优先级购物和重复参观，不临时增加跨城移动。"
+      ]
     },
     {
       "date": "2026-09-28",

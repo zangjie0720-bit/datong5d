@@ -10,8 +10,8 @@
   "stay_decision": "pending",
   "itinerary_gate": {
     "status": "approved",
-    "user_statement": "同意，按上面的混合版更新手册，并把“悬空寺＋恒山”的索道版与体力不足撤退方案一起写进去。",
-    "recorded_at": "2026-09-20T04:11:33.236Z"
+    "user_statement": "好的 改成这个吧",
+    "recorded_at": "2026-09-20T06:31:27.703Z"
   },
   "stage": "complete",
   "next_required_action": "All release gates pass. A final handoff is allowed.",
@@ -53,7 +53,7 @@
     "offline_qa": "Exported artifact interactions verified."
   },
   "created_at": "2026-09-16T06:29:37.408378+00:00",
-  "updated_at": "2026-09-20T05:35:02.366080+00:00",
+  "updated_at": "2026-09-20T06:33:35.907420+00:00",
   "preview_ready": true,
   "final_response_guard": "allowed",
   "recoverable_failure_policy": "inspect_context_retry_smallest_step_revalidate_then_continue",
@@ -67,6 +67,6 @@
   "render_method": "official_renderer",
   "review_ready": true,
   "response_state": "complete",
-  "evaluation_fingerprint": "2d1459cf076598a59331d29fbe2ff5ccc3b6e3f6cfe928cd31c541557ad68356",
+  "evaluation_fingerprint": "9256b14e1f278bd5ef56da242912f87cbf76803628f794d8f4888d3ca3118760",
   "end_date": "2026-09-30"
 }

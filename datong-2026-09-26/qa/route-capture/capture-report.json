@@ -23,28 +23,6 @@
       "diagnostics": []
     },
     {
-      "png": "day-2-1.png",
-      "page": "day-2-1.html",
-      "status": "captured",
-      "visual_reviewed": true,
-      "review_note": "已全尺寸检查：云冈石窟、紫泥369、华严寺与鼓楼文创街区四个标签完整，广域道路与署名清晰可读。",
-      "sha256": "53072666c3932f2b2388c198d2163435391a5582a2848557cb35f1a6720cb957",
-      "observed_state": {
-        "status": "ready",
-        "zoom": 12.122603624593687,
-        "labels": 4,
-        "tiles_loaded": true,
-        "canvas": [
-          1400,
-          974
-        ]
-      },
-      "page_sha256": "d700869d637433cde4d6b6139aeaddcfac08a4c4ca3e671a77d8e93a468cec92",
-      "day_fingerprint": "34a60e0166766a2c4de7c00c9f62519f52c153083d54ef1e27874c4580dbc8af",
-      "capture_size": "[1400,1100,1]",
-      "diagnostics": []
-    },
-    {
       "png": "day-3-1.png",
       "page": "day-3-1.html",
       "status": "captured",
@@ -109,6 +87,28 @@
       "capture_size": "[1400,1100,1]",
       "diagnostics": [],
       "review_note": "已按原始分辨率检查：法华寺、善化寺、凤临阁、大同南站四个标签完整，市内道路、水系与路线顺序清楚，署名可读，无标签裁切。"
+    },
+    {
+      "png": "day-2-1.png",
+      "page": "day-2-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "c637cb6f719c07336768137264b11976ace8791f2e954474111e8c8e98718b44",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 12.122603624593687,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "738b3e47a597723f40496758447cc41d400542bda8ce0cd4f2afd28910093f4c",
+      "day_fingerprint": "9d981b4786a0b14c78d2ff3dd4db52338cede00301de1b132b21454f87cfd747",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": [],
+      "review_note": "已按原始分辨率检查：华严寺、紫泥369粗粮季、云冈石窟、大同古城鼓楼文创街区四个标签完整，行程顺序与午间前往云冈的安排一致，路线和地图署名清晰，无裁切重叠。"
     }
   ],
   "status": "reviewed"

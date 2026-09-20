@@ -1,9 +1,9 @@
 {
   "validation_mode": "browser",
   "status": "passed",
-  "export_sha256": "fd52fda7ba0f812949b697d037701f01c63500eafd452fccfdf368519ae02d13",
+  "export_sha256": "8236e97423bd6dcd9b0c762312015fed07cf84f8100404e15912fe34e0254091",
   "tested_url": "file:///C:/Users/75772/Desktop/chicpoint/00-Inbox/travel-work/大同与晋北古建线5天4晚-离线手册.html",
-  "checked_at": "2026-09-20T05:34:41.463Z",
+  "checked_at": "2026-09-20T06:33:23.461Z",
   "tool_reference": "headless Chrome via run-datong-offline-qa.cjs",
   "checks": {
     "chapter_navigation": {

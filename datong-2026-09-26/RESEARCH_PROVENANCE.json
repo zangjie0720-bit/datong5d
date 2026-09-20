@@ -3,16 +3,16 @@
   "research_plan_sha256": "7270d2e3f58340fc5f3d96e3151d8ccc877eb3fb3b587ddd1908be087f5d49c9",
   "pack_count": 9,
   "pack_sha256": {
-    "research/framing.json": "98790e99265c78a3843408fd75f8bcd61eb9ea8a8ed1204a6219d3bb55833bb6",
+    "research/framing.json": "425848b6688889c96e7972e1877b88622dda91d97bde979af3398992ff0bbaf8",
     "research/places/core.json": "b6c0fc681205a7390fc3608903577b72e53433aa42a7481bdf52b5cf99e0c66f",
     "research/places/shopping.json": "3c4cf3ae3b16eefdf91804aa646a2002f932ec6f9e3d3f5a3739f23516df79d7",
     "research/places/experiences.json": "39fe660d9722d993caf6b5ef2f60011bfd80985706c495aa7dfd175f61545272",
     "research/places/restaurants.json": "ae12984555d2d58c3a8f0227e3afcac71ca72549e488aec29688591e57a15c91",
-    "research/itinerary.json": "3bd84bb44160b06d786d53cc4eeb89b32d90c98cb625796d7052583e1330c0b1",
+    "research/itinerary.json": "7ee9ffd7b9f9bfdc4c37f4fa64b6eb0a4f40ff2111b3bcc6f63851a1dbabd389",
     "research/modules/discovery.json": "f7aab255393330f1b687398cf8706b65a31cd17ce4b53fde17686fd7f799f7fc",
     "research/modules/practical.json": "239ff53da7bf0f38ee0aa4be841193f4bc0ec4ac20f15ea98715e19212406d8c",
     "research/modules/language-notes.json": "03662188eafc55fc06f0387ee78fa4d7bfbdb80a0eb1265d58628a4b217ae3c1"
   },
-  "profile_sha256": "7dd92b7ae047d1e7d85ef03e5ab4606ac01f772e07df473b43e1cf365a0bbad0",
+  "profile_sha256": "5b4bf585e36df224e4bcd8ca119b7fdb60ec077e1f249b52a8feeb84510aae84",
   "test_fixture_detected": false
 }
