@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "destination": "大同市",
+  "current_pack": "places-shopping",
+  "candidates": {
+    "foxiaoban-cultural-plush": {"decision": "keep_text_only", "attempted_sources": ["https://sxfoxiaoban.com/", "web search exact product"], "reason": "official domain identified the brand but TLS hostname mismatch blocked compliant image probing; no unverified product photo substituted"},
+    "datong-dried-daylily": {"decision": "keep_text_only", "attempted_sources": ["https://ai.dt.gov.cn/dtszf/tuidonggaozhiliang/202607/5971ebd76ba644e4845633a1831b4787.shtml", "web search exact product"], "reason": "official sources verify the regional product family but no single exact packaged product was selected"},
+    "guangling-paper-cut": {"decision": "keep_text_only", "attempted_sources": ["https://www.jcgov.gov.cn/dtxx/sxyw/202501/t20250108_2084386.shtml", "web search exact product"], "reason": "official reporting verifies the craft category but not a single exact purchasable work"},
+    "hunyuan-astragalus-small-pack": {"decision": "keep_text_only", "attempted_sources": ["https://www.dt.gov.cn/dtszf/bumdtq/202407/8e61b4e64ddb4111b95db10b66d115bd.shtml", "web search exact product"], "reason": "kept as label-checking advice rather than selecting an unverified package"}
+  },
+  "source_incidents": [
+    {"source": "https://sxfoxiaoban.com/", "status": "blocked", "reason": "TLS certificate hostname mismatch; verification was not bypassed"}
+  ],
+  "note": "Keep only compact keep/replace/pending decisions, attempted source families and rate-limit incidents. Do not store prose research here."
+}

@@ -1,0 +1,115 @@
+{
+  "captures": [
+    {
+      "png": "day-1-1.png",
+      "page": "day-1-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "review_note": "已全尺寸检查：大同南站、善化寺、龙聚祥与古城墙四个标签完整，街道与御河清晰，连线无压字，署名可读。",
+      "sha256": "66760270fb60fe243bd9a5da722e509cc6ae789b4b37c1d9e41e61ee6b75206f",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 12.804357024464549,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "75a404d9ab7b73032daa5fb18e3463d1fbe799c0a8bb449953fddedf2f82fcc0",
+      "day_fingerprint": "98d8d944fd67c9121fd1a1364a2179fa7db355d1ee9a00499225042f57ce4f13",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": []
+    },
+    {
+      "png": "day-2-1.png",
+      "page": "day-2-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "review_note": "已全尺寸检查：云冈石窟、紫泥369、华严寺与鼓楼文创街区四个标签完整，广域道路与署名清晰可读。",
+      "sha256": "53072666c3932f2b2388c198d2163435391a5582a2848557cb35f1a6720cb957",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 12.122603624593687,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "d700869d637433cde4d6b6139aeaddcfac08a4c4ca3e671a77d8e93a468cec92",
+      "day_fingerprint": "34a60e0166766a2c4de7c00c9f62519f52c153083d54ef1e27874c4580dbc8af",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": []
+    },
+    {
+      "png": "day-3-1.png",
+      "page": "day-3-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "a907908fc41e3afe6bfd271ea11254e93f5a4487ddbd1f52be44a6c77397eab5",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 13.7073112957237,
+        "labels": 3,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "86512bd2ffdbd6d7cf1e596399fc2474546e0caec014663f11c8d3881de8df6d",
+      "day_fingerprint": "5b30884658ce4d0c596727b2a9fdc4db342149a985abf08a96f54f199ca49402",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": [],
+      "review_note": "已按原始分辨率检查：悬空寺、北岳恒山、浑源古城休整点三个标签完整，浑源道路与山地区域可辨，连线和地图署名清晰，无裁切重叠。"
+    },
+    {
+      "png": "day-4-1.png",
+      "page": "day-4-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "5b933345b6a5abe09fd8cbd87e71ab1be688fe11456bb03b2b17f65308182cb2",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 10.509822208305435,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "d455f8bc097cbe52b6d63ffccfe08766be0a70c41d0ffb7b89eb9a9ec692e07c",
+      "day_fingerprint": "5d29d4ad669399cf62a13188b1490ddeffc57afbc7e514570759aedb4f6aa491",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": [],
+      "review_note": "已按原始分辨率检查：圆觉寺塔、永安寺、浑源州署、应县木塔四个标签完整，浑源至应县的广域路线关系清楚，署名可读，无标签裁切。"
+    },
+    {
+      "png": "day-5-1.png",
+      "page": "day-5-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "f811decea620a2858803a491c4af995bbf10a3519b224ac4cdd3e5b48de7a2af",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 12.771527648889528,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "page_sha256": "706febb7332ff58c187af9f50d4ce29c3a8923af0c11fd2893d0a4455cb2ae19",
+      "day_fingerprint": "0f7959ffeded62b02a448dfe203d62db87301fd44e63f41ba88a2f9f776212fe",
+      "capture_size": "[1400,1100,1]",
+      "diagnostics": [],
+      "review_note": "已按原始分辨率检查：法华寺、善化寺、凤临阁、大同南站四个标签完整，市内道路、水系与路线顺序清楚，署名可读，无标签裁切。"
+    }
+  ],
+  "status": "reviewed"
+}

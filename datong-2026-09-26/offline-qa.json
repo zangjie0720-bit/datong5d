@@ -1,0 +1,30 @@
+{
+  "validation_mode": "browser",
+  "status": "passed",
+  "export_sha256": "fd52fda7ba0f812949b697d037701f01c63500eafd452fccfdf368519ae02d13",
+  "tested_url": "file:///C:/Users/75772/Desktop/chicpoint/00-Inbox/travel-work/大同与晋北古建线5天4晚-离线手册.html",
+  "checked_at": "2026-09-20T05:34:41.463Z",
+  "tool_reference": "headless Chrome via run-datong-offline-qa.cjs",
+  "checks": {
+    "chapter_navigation": {
+      "passed": true,
+      "note": "离线文件跳转到#route成功。"
+    },
+    "disclosures": {
+      "passed": true,
+      "note": "行程日和路线图折叠均可展开。"
+    },
+    "trip_mode": {
+      "passed": true,
+      "note": "旅行模式可打开并关闭。"
+    },
+    "trip_day_switch": {
+      "passed": true,
+      "note": "从第1天切换至第3天，显示悬空寺与恒山及备选方案。"
+    },
+    "map_viewer": {
+      "passed": true,
+      "note": "离线路线图已加载，可展开、缩放、滚动并收起。"
+    }
+  }
+}

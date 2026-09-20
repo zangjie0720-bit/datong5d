@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "hengshan-mountain",
+    "file": "assets/places/hengshan-mountain.jpg",
+    "source_page": "https://you.ctrip.com/sight/hunyuan3026/15960.html",
+    "download_url": "https://dimg04.c-ctrip.com/images/0EQ3112000ck9hqjg094F_W_640_10000.jpg?proc=autoorient",
+    "sha256": "72c1bb6a5b8146dd92dbaf54a5def145e55f7b162f3b744b365ebf984d8731e3",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。"
+  },
+  {
+    "place_id": "hunyuan-yongan-temple",
+    "file": "assets/places/hunyuan-yongan-temple.jpg",
+    "source_page": "https://you.ctrip.com/sight/hunyuan3026/70351197.html",
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh0w12000o7yqs5uAE02_W_640_10000.jpg?proc=autoorient",
+    "sha256": "d4aeffe3287be8959e156c8f72ac3cd9ca7367e9b6d243c588839ea32d347209",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。"
+  },
+  {
+    "place_id": "hunyuan-yuanjue-pagoda",
+    "file": "assets/places/hunyuan-yuanjue-pagoda.jpg",
+    "source_page": "https://k.sina.cn/article_7067701557_p1a544913500100nzzb.html",
+    "download_url": "https://k.sinaimg.cn/n/sinakd10113/720/w800h720/20200409/4066-iryninw8500571.jpg/w700d1q75cms.jpg",
+    "sha256": "7210303ac85ff9567a60b2289e982ca2d5db740a087cdffca663bd1288338cf0",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。"
+  },
+  {
+    "place_id": "hunyuan-prefectural-office",
+    "file": "assets/places/hunyuan-prefectural-office.jpg",
+    "source_page": "https://xinwen.bjd.com.cn/content/s69206032d5de2ba1d68b3ada.html",
+    "download_url": "https://static.bjd.com.cn/dams-res-external/mps/image/202511/21/692055d5d5de5f38d75f3846_m.jpg",
+    "sha256": "b55416f67879a87dd19ca7233a84977edbcccd06350d0f8809071a9f9ffa8d2d",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。"
+  }
+]

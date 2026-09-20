@@ -1,0 +1,27 @@
+{
+  "experience_mode": "constrained",
+  "shopping": [
+    {
+      "title": "古城文创与地方特产",
+      "subtitle": "只在既有步行路线顺路浏览，不为购物增加跨城交通。",
+      "items": [{"place_id": "datong-ancient-city-gulou-shopping-area"}]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "石窟与木构深读",
+      "items": [
+        {"place_id": "yungang-official-guided-visit"},
+        {"place_id": "huayan-architecture-observation"}
+      ]
+    },
+    {
+      "title": "险构与城市夜景",
+      "items": [
+        {"place_id": "hanging-temple-boardwalk"},
+        {"place_id": "datong-night-wall-walk"}
+      ]
+    }
+  ],
+  "constraint_reason": "取消小西天后，当前已核验且不重复同一物理地点的高匹配体验不足六项；保留四项最符合历史文化、古建与摄影偏好的体验，不以低相关活动填充。"
+}

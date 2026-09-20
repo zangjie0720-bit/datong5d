@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "section_sha256": {
+    "cover": "c4e970f8b13b8bd035b45ff95e840fafe87b3dbadab38bf3fd85aba7c260c99e",
+    "stays": "94d81515e7a77aa562d30ca33a575cae684b762ecd429f93896c62e49b1488ba",
+    "itinerary": "849feab8d8479ea364bf56a29d9b691ea7dbec9cf8dce6be3e32003e09bce565",
+    "sights": "d4febd93846035dce4ae17fb9eb7a38c21a6c354393b6fbac4e83ce0fb9db209",
+    "shopping": "e9ed47eba4304a5016ef9f06b31ec2059b72724678c2a256ddcd2a8d6e71a0c3",
+    "experiences": "dd7f1efd7d32ab2b91172372fed0af756d10e70749fe36012ec608498384efd3",
+    "food": "64cc48f6c5f6a645c921a489054563264b59590fafba9d2ed4acd5cc9a5cb5e7",
+    "preparation": "f170e87eaa7be41c8c84888e3b505cb77135e5ff50bd99ca3d2e564041ab346a",
+    "language": "5001bc54374a7efcd1ab498f2d0ba6af5d378ae95aa8ca6fbf62dbf73a6558c2",
+    "notes": "4649a7d0c6a7759229677a47606b42165de22719d2962ffe976daed5699416f0",
+    "manifest": "f5fed4799c4d4f4c0e2e64eca6a70ee9340a1ce6cfc6ec747250e1473ac39709",
+    "media": "30f4e81e9c1155b69806ebd6fbaf37490c82fdd9527270f6de145bf1be8ea100",
+    "runtime": "aa9fd575c3d77046e748988196dcfd313818a751bc754c85eb969ed7b9e9369e"
+  }
+}

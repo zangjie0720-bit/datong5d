@@ -1,0 +1,468 @@
+{
+  "sights": [
+    {
+      "id": "yungang-grottoes",
+      "type": "sight",
+      "display_name": "云冈石窟",
+      "local_name": "云冈石窟",
+      "english_name": "Yungang Grottoes",
+      "map_query": "云冈石窟景区游客中心",
+      "source_url": "https://www.dt.gov.cn/dtszf/zstpwhhdhd/202512/a253744527454c3fa5251853732e5d3d.shtml",
+      "description": "五世纪至六世纪中国佛教石窟艺术的核心遗存。按已确认路线安排半天以上，并优先使用景区官方讲解或官方公益讲解，给露天大佛、昙曜五窟与中区洞窟留出拍摄和慢看时间。",
+      "hours": "开放时间与分时预约以云冈研究院、云冈石窟文旅当日公告为准；现行公开信息要求实名线上预约。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 40.113157,
+      "longitude": 113.137763,
+      "coordinate_source": {
+        "url": "https://ditu.amap.com/place/B0160001P5",
+        "note": "高德地点页标注云冈石窟景区坐标",
+        "precision": "entrance"
+      },
+      "images": [
+        {
+          "file": "assets/places/yungang-grottoes.jpg",
+          "source_page": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+          "download_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9bf4952e241a41f08ce0390dc6f8e0d5.jpg",
+          "source_type": "official",
+          "media_class": "official_photo",
+          "original_media_class": "official_photo",
+          "visual_subject_type": "landscape",
+          "source_identity_note": "大同市政府图片库云冈石窟页面；已实看为露天大佛、石窟崖面与景区广场全景，3000×1318。"
+        }
+      ],
+      "duration_minutes": 270,
+      "scheduled_label": "云冈石窟深度参观"
+    },
+    {
+      "id": "huayan-temple-datong",
+      "type": "sight",
+      "display_name": "华严寺",
+      "local_name": "大同华严寺",
+      "english_name": "Huayan Temple",
+      "map_query": "大同华严寺 下寺坡街",
+      "source_url": "https://dt.gov.cn/dtszf/bmdt/202408/91c6116b84944a6f8622e463fb9fbcc6.shtml",
+      "description": "大同古城内的重要辽金寺院，重点看薄伽教藏殿、辽塑与大雄宝殿。午后到访时先确认末次入园时间，拍摄以建筑轴线、鸱吻和殿宇尺度为主。",
+      "hours": "公开城市服务指南列旺季通常08:30–18:00；节假日可能临时延时，出行前以景区公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 40.09134,
+      "longitude": 113.28804,
+      "coordinate_source": {
+        "url": "https://www.wikidata.org/wiki/Q15932853",
+        "note": "Wikidata列出大同上下华严寺坐标",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/huayan-temple-datong.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:20220121_大同_华严寺.jpg",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20220121_大同_华严寺.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件说明与结构化数据均指向大同华严寺，画面为入口建筑，4000×2992，CC BY-SA。"
+        }
+      ],
+      "duration_minutes": 90,
+      "scheduled_label": "华严寺"
+    },
+    {
+      "id": "shanhua-temple-datong",
+      "type": "sight",
+      "display_name": "善化寺",
+      "local_name": "善化寺",
+      "english_name": "Shanhua Temple",
+      "map_query": "善化寺 大同 南寺街6号",
+      "source_url": "https://www.dt.gov.cn/dtszf/bmdt/202502/900172b113904d88b381aefb0b7f17ef.shtml",
+      "description": "保存辽金木构的古寺，山门与三圣殿尤其适合观察屋顶、斗栱与中轴空间。与华严寺同日下午串联，控制排队并服从殿内摄影规则。",
+      "hours": "开放时间随季节与活动调整；以大同市文物局及景区现场公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 40.0819,
+      "longitude": 113.2969,
+      "coordinate_source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=善化寺%20大同",
+        "note": "地图查询定位南寺街善化寺建筑群",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/shanhua-temple-datong.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:山西大同善化寺.jpg",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/山西大同善化寺.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件标题、说明与中文题注明确为山西大同善化寺，6048×4024，CC BY。"
+        }
+      ],
+      "duration_minutes": 75,
+      "scheduled_label": "善化寺"
+    },
+    {
+      "id": "datong-city-wall",
+      "type": "sight",
+      "display_name": "大同古城墙",
+      "local_name": "大同古城墙",
+      "english_name": "Datong Ancient City Wall",
+      "map_query": "大同古城墙 和阳门",
+      "source_url": "https://ai.dt.gov.cn/dtszf/bumdtq/202609/c3d648e7251148768b0a6695e02ad9e3.shtml",
+      "description": "大同古城的夜游主轴。正式登城入口和当晚开放状态需现场确认；即使入口调整，也可沿护城河和城门外侧完成夜景拍摄。",
+      "hours": "夜间亮化常态化，但登城开放、限流和恶劣天气闭园以当天公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 40.084584,
+      "longitude": 113.302262,
+      "coordinate_source": {
+        "url": "https://www.amap.com/place/B0FFGRMZMG",
+        "note": "高德地点页提供古城墙旅游景点坐标",
+        "precision": "entrance"
+      },
+      "images": [
+        {
+          "file": "assets/places/datong-city-wall.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:大同城墙-永胜门城楼.jpg",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/大同城墙-永胜门城楼.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件说明明确为大同城墙永胜门夜景，4032×3024，CC BY-SA。"
+        }
+      ],
+      "duration_minutes": 90,
+      "scheduled_label": "古城墙夜景"
+    },
+    {
+      "id": "hanging-temple-hunyuan",
+      "type": "sight",
+      "display_name": "悬空寺",
+      "local_name": "恒山悬空寺",
+      "english_name": "Hanging Temple",
+      "map_query": "悬空寺 浑源县",
+      "source_url": "https://www.byhs.net.cn/culture_detial/77.html",
+      "description": "依翠屏峰崖壁构筑的古建筑群。新版路线先完成远观与登临，再转往恒山；登临受天气、限流与客流管理影响，延误时不压缩恒山撤退缓冲。",
+      "hours": "开放和登临售票受季节、天气、文保及客流管理影响，以恒山景区最新公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 39.6753,
+      "longitude": 113.7359,
+      "coordinate_source": {
+        "url": "https://www.byhs.net.cn/culture_detial/77.html",
+        "note": "恒山景区官方档案确认悬空寺位于浑源县城南约5公里翠屏峰崖壁；坐标按公开地图建筑点记录",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/hanging-temple-hunyuan.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:山西悬空寺.jpg",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/山西悬空寺.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件名、说明和像素内容明确为山西悬空寺崖壁建筑，3648×2736，CC BY-SA。"
+        }
+      ],
+      "duration_minutes": 150,
+      "scheduled_label": "悬空寺"
+    },
+    {
+      "id": "yingxian-wooden-pagoda",
+      "type": "sight",
+      "display_name": "应县木塔",
+      "local_name": "佛宫寺释迦塔",
+      "english_name": "Wooden Pagoda of Ying County",
+      "map_query": "应县木塔 佛宫寺释迦塔",
+      "source_url": "https://www.sxgp.gov.cn/xwzx_358/sxdt_365/202501/t20250131_2094076.shtml",
+      "description": "辽代木构高塔，以全木榫卯体系和多层斗栱著称。下午抵达后优先绕塔观察比例、檐口与不同方向光线，手账或活动名额仅在官方渠道开放时参与。",
+      "hours": "开放、票务及附加体验以应县木塔景区当日公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 39.5658,
+      "longitude": 113.1842,
+      "coordinate_source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=应县木塔",
+        "note": "地图查询定位佛宫寺释迦塔本体",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/yingxian-wooden-pagoda.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:应县木塔.JPG",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/应县木塔.JPG",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件说明明确为全国重点文保应县木塔，2592×3872，CC BY-SA。"
+        }
+      ],
+      "duration_minutes": 120,
+      "scheduled_label": "应县木塔"
+    },
+    {
+      "id": "fahua-temple-datong",
+      "type": "sight",
+      "display_name": "法华寺",
+      "local_name": "法华寺",
+      "english_name": "Fahua Temple",
+      "map_query": "大同法华寺 塔寺街",
+      "source_url": "https://zh.wikipedia.org/wiki/法华寺_(大同)",
+      "description": "古城东部以元代白塔为辨识重点的寺院，作为华严寺或善化寺客流过大时的同区替换，不作为额外硬塞的第九个景点。",
+      "hours": "开放安排以现场公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 40.092739,
+      "longitude": 113.303572,
+      "coordinate_source": {
+        "url": "https://commons.wikimedia.org/wiki/File:法华寺塔（大同）.jpg",
+        "note": "文件EXIF给出大同法华寺塔拍摄点坐标",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/fahua-temple-datong.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:法华寺塔（大同）.jpg",
+          "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/法华寺塔（大同）.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "Wikimedia文件说明为大同法华寺塔及四进院，3917×2938。"
+        }
+      ],
+      "duration_minutes": 60,
+      "scheduled_label": "法华寺（替换项）"
+    },
+    {
+      "id": "datong-museum",
+      "type": "sight",
+      "display_name": "大同市博物馆",
+      "local_name": "大同市博物馆",
+      "english_name": "Datong Museum",
+      "map_query": "大同市博物馆 太和路506号",
+      "source_url": "https://ai.dt.gov.cn/dtszf/bumdtku/202608/79a41d18c80c41f8ab978eddfc4b443d.shtml",
+      "description": "以北魏平城、辽金西京等城市历史为主线，适合在石窟和古建之后补齐大同历史脉络。安排半天看核心展厅，并为文物细节和建筑空间留出拍摄时间。",
+      "hours": "周二至周日09:00–17:00，16:30停止入馆；周一通常闭馆，节假日安排以馆方最新公告为准。",
+      "closed_days": [
+        "周一（法定节假日开放安排以最新公告为准）"
+      ],
+      "latitude": 40.09088,
+      "longitude": 113.364794,
+      "coordinate_source": {
+        "url": "https://www.amap.com/place/B0FFFQTCX4",
+        "note": "高德地点页标注大同市博物馆太和路馆址坐标",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/datong-museum.png",
+          "source_page": "https://ai.dt.gov.cn/dtszf/stdt/201711/4b537049bc12460b97cff19f8879db61.shtml",
+          "download_url": "https://ai.dt.gov.cn/dtszf/stdt/201711/4b537049bc12460b97cff19f8879db61/images/33420395aec14af284667464a7226c5c.png",
+          "source_type": "official",
+          "media_class": "official_photo",
+          "original_media_class": "official_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "大同市政府大同博物馆专题页面所用馆舍图片，来源与场馆身份一致。"
+        }
+      ],
+      "duration_minutes": 180,
+      "scheduled_label": "可选：大同历史通览"
+    },
+    {
+      "id": "hengshan-mountain",
+      "type": "sight",
+      "display_name": "北岳恒山",
+      "local_name": "恒山",
+      "english_name": "Mount Heng",
+      "map_query": "北岳恒山 天峰岭",
+      "source_url": "https://www.sohu.com/a/1019037671_820376",
+      "description": "北岳恒山的山岳与寺观线。9月28日采用索道上山方案：体力与天气允许时步行下山；膝踝不适、风雨、索道排队或时间不足时改索道往返，不追求登顶打卡。",
+      "hours": "2026年5月6日至9月30日公开通告列恒山8:00–17:30、索道8:00–18:00；节假日和天气调整以恒山景区当日公告为准。",
+      "closed_days": [
+        "天气、检修或临时管控时可能调整"
+      ],
+      "latitude": 39.6716647,
+      "longitude": 113.7259685,
+      "coordinate_source": {
+        "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&countrycodes=cn&q=%E6%81%92%E5%B1%B1",
+        "note": "OpenStreetMap Nominatim返回山西大同恒山峰点，作为山岳区域定位，不代表索道入口",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "file": "assets/places/hengshan-mountain.jpg",
+          "source_page": "https://you.ctrip.com/sight/hunyuan3026/15960.html",
+          "download_url": "https://dimg04.c-ctrip.com/images/0EQ3112000ck9hqjg094F_W_640_10000.jpg?proc=autoorient",
+          "source_type": "reputable-listing",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "landscape",
+          "source_identity_note": "携程恒山景点页图片；已实看为恒山山体、寺观与秋色，无可见水印。"
+        }
+      ],
+      "duration_minutes": 270,
+      "scheduled_label": "恒山索道版"
+    },
+    {
+      "id": "hunyuan-yongan-temple",
+      "type": "sight",
+      "display_name": "永安寺",
+      "local_name": "浑源永安寺",
+      "english_name": "Yong'an Temple",
+      "map_query": "浑源永安寺 鼓楼北巷",
+      "source_url": "https://www.hunyuan.gov.cn/hyxrmzfz/tzbh/202403/28ad3231902d423eb2700144e7594c01/files/7b38fb1703e2411c843dae6ffd478fa9.pdf",
+      "description": "浑源古城内的元代古建与壁画重点。参观以传法正宗殿、水陆壁画和木构细节为主；遵守殿内禁闪光与现场摄影规则。",
+      "hours": "2026年5月6日至9月30日公开通告列8:00–18:00；临时保护、客流和节假日调整以现场公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 39.7008906,
+      "longitude": 113.6857268,
+      "coordinate_source": {
+        "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=3&q=%E6%B5%91%E6%BA%90%E6%B0%B8%E5%AE%89%E5%AF%BA%20%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A4%A7%E5%90%8C%E5%B8%82%E6%B5%91%E6%BA%90%E5%8E%BF",
+        "note": "OpenStreetMap返回永安寺建筑范围中心点",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/hunyuan-yongan-temple.jpg",
+          "source_page": "https://you.ctrip.com/sight/hunyuan3026/70351197.html",
+          "download_url": "https://dimg04.c-ctrip.com/images/1mh0w12000o7yqs5uAE02_W_640_10000.jpg?proc=autoorient",
+          "source_type": "reputable-listing",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "place_interior",
+          "source_identity_note": "携程永安寺景点页图片；已实看为永安寺水陆壁画局部，无可见水印。"
+        }
+      ],
+      "duration_minutes": 100,
+      "scheduled_label": "永安寺壁画与木构"
+    },
+    {
+      "id": "hunyuan-yuanjue-pagoda",
+      "type": "sight",
+      "display_name": "圆觉寺塔",
+      "local_name": "浑源圆觉寺塔",
+      "english_name": "Yuanjue Temple Pagoda",
+      "map_query": "圆觉寺塔 浑源县石桥北巷",
+      "source_url": "https://www.hunyuan.gov.cn/hyxrmzfz/tzbh/202403/28ad3231902d423eb2700144e7594c01/files/7b38fb1703e2411c843dae6ffd478fa9.pdf",
+      "description": "金代八角九级密檐式砖塔，适合作为浑源古城晨间第一站。以外观、砖仿木构与塔身比例观察为主，不为等待特殊开放压缩永安寺。",
+      "hours": "2026年5月6日至9月30日公开通告列8:00–18:00；以景区当日公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 39.6995233,
+      "longitude": 113.6855161,
+      "coordinate_source": {
+        "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=3&q=%E5%9C%86%E8%A7%89%E5%AF%BA%E5%A1%94%20%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A4%A7%E5%90%8C%E5%B8%82%E6%B5%91%E6%BA%90%E5%8E%BF",
+        "note": "OpenStreetMap返回圆觉寺塔建筑点",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "file": "assets/places/hunyuan-yuanjue-pagoda.jpg",
+          "source_page": "https://k.sina.cn/article_7067701557_p1a544913500100nzzb.html",
+          "download_url": "https://k.sinaimg.cn/n/sinakd10113/720/w800h720/20200409/4066-iryninw8500571.jpg/w700d1q75cms.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "新浪圆觉寺塔专题图片；已实看为完整九级砖塔，画面左侧带地点名称字样，无商业水印。"
+        }
+      ],
+      "duration_minutes": 50,
+      "scheduled_label": "圆觉寺塔晨间观察"
+    },
+    {
+      "id": "hunyuan-prefectural-office",
+      "type": "sight",
+      "display_name": "浑源州署",
+      "local_name": "浑源州署",
+      "english_name": "Hunyuan Prefectural Office",
+      "map_query": "浑源州署 永安西街",
+      "source_url": "https://www.hunyuan.gov.cn/hyxrmzfz/sqgllssy/listN.shtml",
+      "description": "浑源古城内的官署文化体验点。本行程仅作为圆觉寺、永安寺之后的可舍弃项；交通衔接不佳或应县木塔时间受压时直接取消。",
+      "hours": "开放、演出与体验安排以浑源州署现场公告为准。",
+      "closed_days": [
+        "未确认；以景区最新公告为准"
+      ],
+      "latitude": 39.6965041,
+      "longitude": 113.6813588,
+      "coordinate_source": {
+        "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&countrycodes=cn&q=%E6%B0%B8%E5%AE%89%E8%A5%BF%E8%A1%97%20%E6%B5%91%E6%BA%90%E5%8E%BF%20%E5%B1%B1%E8%A5%BF%E7%9C%81",
+        "note": "官方资料确认州署位于浑源古城永安西街；OpenStreetMap仅返回街道中心，故作为区域近似点，不声称入口坐标",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "file": "assets/places/hunyuan-prefectural-office.jpg",
+          "source_page": "https://xinwen.bjd.com.cn/content/s69206032d5de2ba1d68b3ada.html",
+          "download_url": "https://static.bjd.com.cn/dams-res-external/mps/image/202511/21/692055d5d5de5f38d75f3846_m.jpg",
+          "source_type": "reputable-listing",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "place_exterior",
+          "source_identity_note": "北京日报浑源州署专题图片；已实看为题额清晰的州署正门，无可见水印。"
+        }
+      ],
+      "duration_minutes": 50,
+      "scheduled_label": "浑源州署（可舍弃）"
+    }
+  ],
+  "support": [
+    {
+      "id": "datong-south-station",
+      "type": "support",
+      "display_name": "大同南站",
+      "local_name": "大同南站",
+      "english_name": "Datong South Railway Station",
+      "map_query": "大同南站",
+      "source_url": "https://ai.dt.gov.cn/dtszf/tzggnr/202602/79c6269f6b8240f6b5e00f0e04951410.shtml",
+      "description": "北京往返大同的高铁节点。去程D1127截图显示已支付，9月26日14:38抵达；回程G2540截图仍是确认订单页，出票状态需在出发前复核。",
+      "hours": "随铁路运行开放",
+      "closed_days": [
+        "铁路车站无固定闭站日"
+      ],
+      "latitude": 40.045489,
+      "longitude": 113.358103,
+      "coordinate_source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Datongnan_Railway_Station.jpg",
+        "note": "Wikimedia文件EXIF记录大同南站拍摄位置",
+        "precision": "building"
+      },
+      "images": []
+    },
+    {
+      "id": "hunyuan-ancient-city-rest-point",
+      "type": "support",
+      "display_name": "浑源古城休整点",
+      "local_name": "浑源古城",
+      "english_name": "Hunyuan Ancient City Rest Area",
+      "map_query": "浑源古城 永安西街",
+      "source_url": "https://www.hunyuan.gov.cn/hyxrmzfz/sqgllssy/listN.shtml",
+      "description": "恒山下山后的县城休整与住宿决策点，不代表已预订酒店。优先在古城片区用餐、休息；住宿未落实时按已核实交通返回大同。",
+      "hours": "古城公共街区；具体餐饮、住宿与交通以当天核实为准。",
+      "closed_days": [],
+      "latitude": 39.6965041,
+      "longitude": 113.6813588,
+      "coordinate_source": {
+        "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&countrycodes=cn&q=%E6%B0%B8%E5%AE%89%E8%A5%BF%E8%A1%97%20%E6%B5%91%E6%BA%90%E5%8E%BF%20%E5%B1%B1%E8%A5%BF%E7%9C%81",
+        "note": "OpenStreetMap返回浑源古城永安西街中心，作为县城休整区域近似点，不代表住宿入口",
+        "precision": "area"
+      },
+      "images": []
+    }
+  ]
+}

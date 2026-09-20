@@ -1,0 +1,120 @@
+{
+  "requested_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+  "checked_at": "2026-09-16T06:31:24.656919+00:00",
+  "images": [
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/logon.png",
+      "metadata_key": "body:src",
+      "context": "大同市人民政府",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/sjImg1.png",
+      "metadata_key": "body:src",
+      "context": "扫描三晋通二维码   三晋通\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t三晋通",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/erweima.jpg",
+      "metadata_key": "body:src",
+      "context": "扫描大同政务二维码   \r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t大同政务",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9bf4952e241a41f08ce0390dc6f8e0d5.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/d808960c4e12425daa22893cd9d2c2fd.jpg",
+      "metadata_key": "body:src",
+      "context": "63a553ca6ac0e  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/cce161050d054fceb29b1a4a990c7e7f.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/cf598446e7a94fb49b1fa9e293c9038a.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/8ededb75fccd4668a920ca64f0408bfc.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9f5f455bb73647ca893f8f9545612d95.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/a7962e2e52824702bc688a4cc776770c.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/f27a9369336a497082b3b7edb0e4f00c.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/beian.png",
+      "metadata_key": "body:src",
+      "context": "晋公网安备14020002000138号",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/3-1.png",
+      "metadata_key": "body:src",
+      "context": "",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/red.png",
+      "metadata_key": "body:src",
+      "context": "",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://www.dt.gov.cn/dtszf/xhtml/images/jiucuo.png?v=1402000004",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    }
+  ],
+  "final_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+  "content_type": "text/html",
+  "status": "ok",
+  "title": "云冈石窟 - 图片 - 大同市人民政府门户网站",
+  "description": null,
+  "product_links": [],
+  "encoding": "utf-8",
+  "encoding_warning": null,
+  "official_identity_verified": false
+}

@@ -1,0 +1,23 @@
+{
+  "media_pass": true,
+  "counts": {
+    "real_photo": 12,
+    "official_photo": 3,
+    "licensed_photo": 12,
+    "generated_editorial": 0,
+    "illustration": 0,
+    "placeholder": 0,
+    "other": 0
+  },
+  "failures": [],
+  "warnings": [
+    "low resolution: assets/places/longjuxiang-gulou.jpg (180x180)",
+    "low resolution: assets/places/zini-369-sipailou.jpg (180x180)",
+    "low resolution: assets/places/fenglinge-gucheng.jpg (180x180)",
+    "low resolution: assets/places/kaige-zhenxing-street.jpg (180x180)",
+    "low resolution: assets/places/tianyuan-beiwei-yingbin.jpg (180x180)",
+    "low resolution: assets/places/laoyemiao-weidu-avenue.jpg (180x180)",
+    "low resolution: assets/places/dongfang-daoxiaomian-yingze.jpg (180x180)",
+    "low resolution: assets/places/renji-qizhong-daoxiaomian.jpg (180x180)"
+  ]
+}

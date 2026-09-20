@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "tasks": [
+    {
+      "day": 1,
+      "view": 1,
+      "page": "day-1-1.html",
+      "png": "day-1-1.png",
+      "caption": "第1天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day_fingerprint": "98d8d944fd67c9121fd1a1364a2179fa7db355d1ee9a00499225042f57ce4f13"
+    },
+    {
+      "day": 2,
+      "view": 1,
+      "page": "day-2-1.html",
+      "png": "day-2-1.png",
+      "caption": "第2天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day_fingerprint": "34a60e0166766a2c4de7c00c9f62519f52c153083d54ef1e27874c4580dbc8af"
+    },
+    {
+      "day": 3,
+      "view": 1,
+      "page": "day-3-1.html",
+      "png": "day-3-1.png",
+      "caption": "第3天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3
+      ],
+      "day_fingerprint": "5b30884658ce4d0c596727b2a9fdc4db342149a985abf08a96f54f199ca49402"
+    },
+    {
+      "day": 4,
+      "view": 1,
+      "page": "day-4-1.html",
+      "png": "day-4-1.png",
+      "caption": "第4天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day_fingerprint": "5d29d4ad669399cf62a13188b1490ddeffc57afbc7e514570759aedb4f6aa491"
+    },
+    {
+      "day": 5,
+      "view": 1,
+      "page": "day-5-1.html",
+      "png": "day-5-1.png",
+      "caption": "第5天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day_fingerprint": "0f7959ffeded62b02a448dfe203d62db87301fd44e63f41ba88a2f9f776212fe"
+    }
+  ],
+  "width": 1400,
+  "height": 1100,
+  "device_scale_factor": 1
+}

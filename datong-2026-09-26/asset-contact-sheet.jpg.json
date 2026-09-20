@@ -1,0 +1,222 @@
+{
+  "contact_sheet": "C:\\Users\\75772\\Desktop\\chicpoint\\00-Inbox\\travel-work\\datong-2026-09-26\\asset-contact-sheet.jpg",
+  "columns": 3,
+  "assets": [
+    {
+      "asset_index": 1,
+      "row": 1,
+      "column": 1,
+      "file": "assets/places/yungang-grottoes.jpg",
+      "place_id": "__cover__",
+      "venue": "大同与晋北古建线"
+    },
+    {
+      "asset_index": 2,
+      "row": 1,
+      "column": 2,
+      "file": "assets/places/yungang-grottoes.jpg",
+      "place_id": "yungang-grottoes",
+      "venue": "云冈石窟"
+    },
+    {
+      "asset_index": 3,
+      "row": 1,
+      "column": 3,
+      "file": "assets/places/huayan-temple-datong.jpg",
+      "place_id": "huayan-temple-datong",
+      "venue": "华严寺"
+    },
+    {
+      "asset_index": 4,
+      "row": 2,
+      "column": 1,
+      "file": "assets/places/shanhua-temple-datong.jpg",
+      "place_id": "shanhua-temple-datong",
+      "venue": "善化寺"
+    },
+    {
+      "asset_index": 5,
+      "row": 2,
+      "column": 2,
+      "file": "assets/places/datong-city-wall.jpg",
+      "place_id": "datong-city-wall",
+      "venue": "大同古城墙"
+    },
+    {
+      "asset_index": 6,
+      "row": 2,
+      "column": 3,
+      "file": "assets/places/hanging-temple-hunyuan.jpg",
+      "place_id": "hanging-temple-hunyuan",
+      "venue": "悬空寺"
+    },
+    {
+      "asset_index": 7,
+      "row": 3,
+      "column": 1,
+      "file": "assets/places/yingxian-wooden-pagoda.jpg",
+      "place_id": "yingxian-wooden-pagoda",
+      "venue": "应县木塔"
+    },
+    {
+      "asset_index": 8,
+      "row": 3,
+      "column": 2,
+      "file": "assets/places/fahua-temple-datong.jpg",
+      "place_id": "fahua-temple-datong",
+      "venue": "法华寺"
+    },
+    {
+      "asset_index": 9,
+      "row": 3,
+      "column": 3,
+      "file": "assets/places/datong-museum.png",
+      "place_id": "datong-museum",
+      "venue": "大同市博物馆"
+    },
+    {
+      "asset_index": 10,
+      "row": 4,
+      "column": 1,
+      "file": "assets/places/hengshan-mountain.jpg",
+      "place_id": "hengshan-mountain",
+      "venue": "北岳恒山"
+    },
+    {
+      "asset_index": 11,
+      "row": 4,
+      "column": 2,
+      "file": "assets/places/hunyuan-yongan-temple.jpg",
+      "place_id": "hunyuan-yongan-temple",
+      "venue": "永安寺"
+    },
+    {
+      "asset_index": 12,
+      "row": 4,
+      "column": 3,
+      "file": "assets/places/hunyuan-yuanjue-pagoda.jpg",
+      "place_id": "hunyuan-yuanjue-pagoda",
+      "venue": "圆觉寺塔"
+    },
+    {
+      "asset_index": 13,
+      "row": 5,
+      "column": 1,
+      "file": "assets/places/hunyuan-prefectural-office.jpg",
+      "place_id": "hunyuan-prefectural-office",
+      "venue": "浑源州署"
+    },
+    {
+      "asset_index": 14,
+      "row": 5,
+      "column": 2,
+      "file": "assets/places/datong-ancient-city-gulou-shopping-area.jpg",
+      "place_id": "datong-ancient-city-gulou-shopping-area",
+      "venue": "大同古城鼓楼文创街区"
+    },
+    {
+      "asset_index": 15,
+      "row": 5,
+      "column": 3,
+      "file": "assets/places/yungang-official-guided-visit.jpg",
+      "place_id": "yungang-official-guided-visit",
+      "venue": "云冈石窟官方讲解深度参观"
+    },
+    {
+      "asset_index": 16,
+      "row": 6,
+      "column": 1,
+      "file": "assets/places/huayan-architecture-observation.jpg",
+      "place_id": "huayan-architecture-observation",
+      "venue": "华严寺辽金木构观察"
+    },
+    {
+      "asset_index": 17,
+      "row": 6,
+      "column": 2,
+      "file": "assets/places/datong-night-wall-walk.jpg",
+      "place_id": "datong-night-wall-walk",
+      "venue": "大同古城墙夜景步行"
+    },
+    {
+      "asset_index": 18,
+      "row": 6,
+      "column": 3,
+      "file": "assets/places/hanging-temple-boardwalk.jpg",
+      "place_id": "hanging-temple-boardwalk",
+      "venue": "悬空寺崖壁栈道登临"
+    },
+    {
+      "asset_index": 19,
+      "row": 7,
+      "column": 1,
+      "file": "assets/places/yingxian-pagoda-structure-study.jpg",
+      "place_id": "yingxian-pagoda-structure-study",
+      "venue": "应县木塔斗栱与比例观察"
+    },
+    {
+      "asset_index": 20,
+      "row": 7,
+      "column": 2,
+      "file": "assets/places/longjuxiang-gulou.jpg",
+      "place_id": "longjuxiang-gulou",
+      "venue": "龍聚祥烧麦馆（鼓楼店）"
+    },
+    {
+      "asset_index": 21,
+      "row": 7,
+      "column": 3,
+      "file": "assets/places/zini-369-sipailou.jpg",
+      "place_id": "zini-369-sipailou",
+      "venue": "紫泥369粗粮季（四牌楼店）"
+    },
+    {
+      "asset_index": 22,
+      "row": 8,
+      "column": 1,
+      "file": "assets/places/fenglinge-gucheng.jpg",
+      "place_id": "fenglinge-gucheng",
+      "venue": "凤临阁"
+    },
+    {
+      "asset_index": 23,
+      "row": 8,
+      "column": 2,
+      "file": "assets/places/kaige-zhenxing-street.jpg",
+      "place_id": "kaige-zhenxing-street",
+      "venue": "凯鸽酒楼（振兴街店）"
+    },
+    {
+      "asset_index": 24,
+      "row": 8,
+      "column": 3,
+      "file": "assets/places/tianyuan-beiwei-yingbin.jpg",
+      "place_id": "tianyuan-beiwei-yingbin",
+      "venue": "田园北魏家宴·大同菜（迎宾东路店）"
+    },
+    {
+      "asset_index": 25,
+      "row": 9,
+      "column": 1,
+      "file": "assets/places/laoyemiao-weidu-avenue.jpg",
+      "place_id": "laoyemiao-weidu-avenue",
+      "venue": "老爷庙风味美食府（魏都大道店）"
+    },
+    {
+      "asset_index": 26,
+      "row": 9,
+      "column": 2,
+      "file": "assets/places/dongfang-daoxiaomian-yingze.jpg",
+      "place_id": "dongfang-daoxiaomian-yingze",
+      "venue": "东方削面（迎泽街店）"
+    },
+    {
+      "asset_index": 27,
+      "row": 9,
+      "column": 3,
+      "file": "assets/places/renji-qizhong-daoxiaomian.jpg",
+      "place_id": "renji-qizhong-daoxiaomian",
+      "venue": "任记七中刀削面（总店）"
+    }
+  ]
+}

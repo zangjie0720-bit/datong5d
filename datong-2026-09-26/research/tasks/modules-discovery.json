@@ -1,0 +1,87 @@
+{
+  "task_id": "modules-discovery",
+  "outfit_contract": "Every itinerary day needs photo_advice.outfit_advice: {women, men, practical_note}, all non-empty strings. Give two practical outfits suited to season, walking and planned places; shared adjustments cover layers/rain/venue dress rules without inventing a forecast. Render in main itinerary and Trip Mode. See research-data-shapes.md.",
+  "souvenir_media": "For products use kind=souvenir (type/place_kind aliases accepted), product_name or exact local display_name, official_url, optional verified brand_name. Product helper reads body/lazy/srcset/JSON-LD images and follows at most two exact same-site links; never use nearby street images. Search the exact official product first, then one reputable exact-product retailer/tourism source if needed; record actual URLs, outcomes and fallback reason in .research-state/candidate-ledger.json. Only after bounded search fails or explicit access restrictions block it, keep images: [] and buying advice; never skip lookup merely because images are optional. Explicit user text-only requests are exempt. Honor product_media_status/next_action; standard brand fallback remains explicitly official_brand_asset, never product photography.",
+  "candidate_readback": "research_image_candidates.py prints validated structured candidate URLs/source pages/coordinates to stdout. Use them directly; no extra read call. For recovery use inspect_research_json.py with the exact printed source_file path as one quoted argument; do not invent filenames or ad hoc JSON parsers.",
+  "page_probe": "Use scripts/probe_official_page.py URL --output research/drafts/page.json --timeout 10 for official title/description/og:image metadata. Standard library only; never assume requests/bs4 or compose complex Python one-liners through PowerShell. Read status; candidates are not identity or visual verification.",
+  "map_delivery": "New builds require exactly one reviewed offline overview per day with all scheduled stops; do not automatically add local views; follow references/screenshot-map-workflow.md. First attempt original street-map capture. Only after evidenced failure use references/offline-map-fallback.md; no online-map fallback. Route lists alone are not offline maps.",
+  "tip_priority": "Each travel note requires explicit priority 必须/建议/随缘 based on actual constraints, not title matching or quotas.",
+  "target_file": "research/modules/discovery.json",
+  "purpose": "购物与体验分组和行程关联",
+  "required_fields": [
+    "object with shopping and experiences module payloads",
+    "all items use wrapped {place_id: stable-id} references",
+    "use experience_mode=standard for 3 groups with 6 total options; use experience_mode=constrained for 2 groups with 4 total options only when the candidate ledger records why a third qualified type was unavailable",
+    "shopping is an array of title/items category groups referencing shop IDs only. Souvenirs live in places/shopping.json.souvenirs and render automatically in their dedicated section; never reference them inside shopping groups."
+  ],
+  "suggested_sources": [
+    "verified place records from this research workspace",
+    "official destination guidance"
+  ],
+  "search_queries": [
+    "大同市 shopping guide itinerary areas",
+    "大同市 local experience categories"
+  ],
+  "contract_schema": "assets/research-pack-contract.json",
+  "neutral_json_example": null,
+  "execution_rule": "Work only within the current bounded batch. For named venues, perform cheap identity, coordinate and image URL/MIME/dimension feasibility before freezing the place. Do not download final assets yet. Write and validate this pack before expanding scope. Generated requirements and named JSON-pointer errors are sufficient; do not read validator source unless an error remains unexplained.",
+  "delegation_contract": {
+    "scope": "Write only target_file for this task; do not edit other packs, the compiled profile, runtime files or final HTML.",
+    "context": "Use travel-brief.json, this task JSON, the assigned frozen IDs/area boundary and only directly relevant references. Do not load the full conversation or unrelated packs.",
+    "handoff": "Validate target_file immediately, then report its path and only unresolved source incidents or proposed frozen-ID replacements."
+  },
+  "shape_reference": "Read references/research-data-shapes.md before authoring. Use validate_research_pack.py --scaffold PACK for exact fields. Language: local term/meaning/reading (Japanese reading required); English phrases use sentence/meaning. Place type is the renderer family, not temple/shrine/nightlife. Stop order must include dwell and transfer time.",
+  "execution_policy": {
+    "unit": "pack",
+    "agent_mode": "single_agent_default",
+    "subagents_require_explicit_user_request": true,
+    "record_timers_required": false,
+    "image_dimensions": "advisory",
+    "individual_visual_evidence": false,
+    "constrained_experiences_allowed": true
+  },
+  "record_writing": "Write the complete canonical pack atomically to target_file and validate it once. Use the pack scaffold for unfamiliar shapes. Record-level tools are recovery aids only.",
+  "work_units": "Use references/production-flow.md. Research a complete pack batch with concurrent independent lookups; reuse facts across modules.",
+  "failure_counter": "After repeated failure of the same operation, inspect its actual error and change the method. Preserve valid packs and repair only the affected data.",
+  "runner_commands": "Use the verified Python interpreter or the generated workbench travel.ps1 for supported actions. Its absolute path binds the workbench. Whole-pack authoring needs no timer or assembly commands.",
+  "completion_rule": "Save researched JSON to target_file and validate required_fields. Images need an identity-bearing source page and valid acquisition metadata; use an existing decoded local file or a verified direct image URL. Small dimensions alone are advisory. Do not fabricate download or visual evidence.",
+  "brief_file": "travel-brief.json",
+  "traveler_preferences": {
+    "travelers": "2名成人，普通同行",
+    "rhythm": "充实，可接受早上6至7点起床",
+    "interests": [
+      "经典景点",
+      "自然风景",
+      "历史文化",
+      "建筑与文物摄影"
+    ],
+    "constraints": [
+      "2026-09-26晚20:00至22:00左右抵达大同",
+      "从北京乘高铁到达大同南站",
+      "2026-09-30需经临汾方向返京",
+      "重点景点需预留拍摄时间",
+      "交通和住宿未提供，保持待确认"
+    ],
+    "must_go": [
+      "云冈石窟",
+      "悬空寺",
+      "应县木塔",
+      "隰县小西天",
+      "华严寺",
+      "善化寺",
+      "大同古城墙"
+    ],
+    "avoid": [
+      "不登恒山",
+      "不采用来源不明的野讲解",
+      "不为低相关网红项目绕路"
+    ],
+    "budget": "经济实用，节俭为主"
+  },
+  "brief_rule": "Use the current approved brief and itinerary-outline.md; preserve its travelers, interests, constraints and exclusions in research/framing.json.trip and selection. These inputs are already supplied; do not ask the questionnaire again. The linked brief owns any additional user fields.",
+  "writing_rules": [
+    "At least four of six experiences directly match selected interests.",
+    "Every selected experience must explain both why it is distinctive here and why it fits this traveler; reject generic filler.",
+    "Do not pad a failed category. After bounded failure, use constrained mode with four strong options and preserve the failure reason in the candidate ledger."
+  ]
+}

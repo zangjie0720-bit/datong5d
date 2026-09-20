@@ -1,0 +1,7 @@
+{
+  "requested_url": "https://sxfoxiaoban.com/",
+  "checked_at": "2026-09-16T06:39:13.060554+00:00",
+  "images": [],
+  "status": "network_error",
+  "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sxfoxiaoban.com'. (_ssl.c:1010)"
+}

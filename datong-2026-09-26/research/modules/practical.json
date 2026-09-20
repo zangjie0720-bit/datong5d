@@ -1,0 +1,63 @@
+{
+  "food": {
+    "menu_guide": {
+      "kicker": "DATONG FOOD",
+      "title": "两个人怎样点得丰富又不浪费",
+      "intro": "晋北菜分量和主食比例往往偏大，先点一份代表菜、一份蔬菜或凉菜，再视食量补面食。",
+      "cards": [
+        {"title":"烧麦","note":"先问清一屉的数量、大小和馅料；两位成人通常一屉配一份凉菜和热菜即可，避免再叠加整份刀削面。"},
+        {"title":"黄花菜","note":"凉拌或鲜炒都适合在肉菜之间解腻，优先选择菜单明确标注大同鲜黄花的做法，并询问是否为当季食材。"},
+        {"title":"莜面与黄糕","note":"两者都是饱腹感很强的晋北主食，不建议与刀削面、烧麦同时大量点；两人先选其中一种再按食量追加。"},
+        {"title":"浑源凉粉","note":"点单时可询问辣度并把辣椒分开，悬空寺当天在浑源县城吃最顺路；若转车紧张就不要为名店绕行。"}
+      ]
+    },
+    "menu_primer": [
+      {"term":"刀削面","meaning":"用刀削出的宽厚面条","note":"点单时说明猪肉卤、牛肉卤或素卤。"},
+      {"term":"过油肉","meaning":"山西传统炒肉菜","note":"口味通常较重，可搭配清淡蔬菜。"},
+      {"term":"烧麦","meaning":"大同常见薄皮肉馅面点","note":"询问按屉还是按个售卖。"},
+      {"term":"黄米凉糕","meaning":"黏黄米制作的甜味凉糕","note":"适合两人分食一份。"}
+    ],
+    "local_snacks": [
+      {"name":"大同刀削面","local_name":"刀削面","english_name":"Knife-cut Noodles","description":"面条宽厚有嚼劲，常配猪肉卤、牛肉卤和豆腐干。","why_try":"大同辨识度最高、预算友好的日常主食。","where_to_find":"东方削面、任记七中刀削面等明确分店。"},
+      {"name":"大同烧麦","local_name":"烧麦","english_name":"Datong Shaomai","description":"薄皮包裹羊肉、猪肉或三鲜馅，常蘸陈醋食用。","why_try":"与古城老字号餐饮联系紧密，适合两人共享。","where_to_find":"龍聚祥烧麦馆或凤临阁。"},
+      {"name":"浑源凉粉","local_name":"浑源凉粉","english_name":"Hunyuan Liangfen","description":"以当地土豆淀粉制作，口感滑韧，配辣椒、醋和豆干。","why_try":"悬空寺当天最顺路的地域小吃。","where_to_find":"浑源县城正规凉粉店或大同晋菜馆。"},
+      {"name":"黄米凉糕","local_name":"黄米凉糕","english_name":"Yellow Millet Cake","description":"软糯黄米配桂花、沙棘等甜酸酱汁，适合作为共享甜点。","why_try":"能体验晋北杂粮风味，又比再加一份主食轻松。","where_to_find":"紫泥369、龍聚祥或凤临阁。"}
+    ],
+    "dedicated_trip": [
+      {"place_id":"longjuxiang-gulou"},{"place_id":"zini-369-sipailou"},{"place_id":"fenglinge-gucheng"},{"place_id":"kaige-zhenxing-street"},{"place_id":"tianyuan-beiwei-yingbin"},{"place_id":"laoyemiao-weidu-avenue"}
+    ],
+    "reliable_chains": [
+      {"place_id":"dongfang-daoxiaomian-yingze"},{"place_id":"renji-qizhong-daoxiaomian"}
+    ]
+  },
+  "preparation": {
+    "essentials": [
+      {"title":"身份证件","note":"高铁、景区实名预约与取票均需随身携带。","priority":"必须"},
+      {"title":"回程出票确认","note":"G2540截图仍是确认订单页，出发前核对购票成功和座席。","priority":"必须"},
+      {"title":"手机与充电宝","note":"用于电子票、导航、公交查询和应急联络。","priority":"必须"},
+      {"title":"相机与备用电池","note":"前一晚充满电，存储卡留足空间，禁止闪光处收起闪光灯。","priority":"必须"},
+      {"title":"防风外层","note":"晋北秋季早晚与崖壁景区体感可能偏凉，按临近预报调整。","priority":"建议"},
+      {"title":"防滑步行鞋","note":"古城石板、寺院台阶和悬空寺登临均需要稳定抓地。","priority":"建议"},
+      {"title":"小容量水杯","note":"双肩包轻装携带，景区内及时补水。","priority":"建议"},
+      {"title":"纸巾与湿巾","note":"长距离公共交通与户外餐饮时使用。","priority":"建议"},
+      {"title":"常用药","note":"仅携带个人日常所需，按自身情况准备。","priority":"建议"},
+      {"title":"轻便雨具","note":"依据临近天气预报决定是否携带。","priority":"随缘"},
+      {"title":"相机清洁布","note":"石窟与户外风沙环境可用于清理镜片。","priority":"随缘"},
+      {"title":"文创收纳袋","note":"确定购买剪纸或小挂件时再携带，避免增加负担。","priority":"随缘"}
+    ],
+    "confirm_ahead": [
+      {"title":"云冈石窟预约","note":"核对实名门票、官方讲解或公益讲解场次。","priority":"必须"},
+      {"title":"悬空寺登临票","note":"确认预约渠道、限流规则和天气影响。","priority":"必须"},
+      {"title":"9月28日景区直通车","note":"确认大同至悬空寺、应县木塔及返程的当天班次。","priority":"必须"},
+      {"title":"G2540出票","note":"确认9月30日18:36大同南至清河车票已成功出票。","priority":"必须"},
+      {"title":"大同住宿","note":"优先古城西南侧连续住宿，确认晚到接待与寄存。","priority":"必须"},
+      {"title":"华严寺与善化寺开放","note":"临行前核对开放时间及末次入园。","priority":"建议"},
+      {"title":"古城墙登城入口","note":"核对夜间开放、亮灯和天气关闭信息。","priority":"建议"},
+      {"title":"应县木塔票务","note":"确认门票与任何限量体验的官方规则。","priority":"建议"},
+      {"title":"大同博物馆","note":"如临时加入，先确认预约和周一闭馆等安排。","priority":"建议"},
+      {"title":"热门餐厅排号","note":"凤临阁等排队过长时直接使用同区替代，不牺牲景点。","priority":"随缘"},
+      {"title":"天气与风力","note":"悬空寺登临前一天重点查看风雨信息。","priority":"建议"},
+      {"title":"公共交通实时变化","note":"班次临时调整时使用正规拼车作为备选。","priority":"建议"}
+    ]
+  }
+}

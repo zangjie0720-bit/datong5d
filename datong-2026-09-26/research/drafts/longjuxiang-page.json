@@ -1,0 +1,183 @@
+{
+  "requested_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/16622549.html",
+  "checked_at": "2026-09-16T06:42:57.139042+00:00",
+  "images": [
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0100x12000rsoq3js5173_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh5g12000chkduoj07E2_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh4r12000hfjaxl8FCA2_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0102j12000l3cuzve8003_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1me4p12000cm6vf13E50C_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1me0612000bo2n7zvE71C_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/01A6i1200097tk2ds71CB_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh2p12000hfiy356C492_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh1612000p2toua9CB93_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh2r12000p2tz6br466B_D_750_450_Q90.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "icon  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0102j12000l3cuzve8003_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0100b12000l3cw98e2688_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0106g12000l3cwe83E757_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0106912000l3cxc1o649D_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0104k12000l3cvpz5B2C4_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0100w12000l3cw7sg7C11_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0105912000l3cubmeFE8C_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0100312000l3cupqn6BE2_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0105f12000l3cvzma3E10_D_400_300_Q90.jpg?proc=autoorient",
+      "metadata_key": "inline_css_background",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/0Z83712000jiuy5m025AC_R_180_180.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh0d12000p2tmkixF4CC_D_180_180.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh2r12000p2tz6br466B_D_180_180.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/1mh3u12000p2t68l73FF0_D_180_180.jpg?proc=autoorient",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    },
+    {
+      "url": "https://dimg04.c-ctrip.com/images/27c1212000na9ji4x8795_R_180_180.jpg",
+      "metadata_key": "body:src",
+      "context": "  ",
+      "status": "candidate",
+      "subject_verified": false
+    }
+  ],
+  "final_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/16622549.html",
+  "content_type": "text/html; charset=utf-8",
+  "status": "ok",
+  "title": "大同龍聚祥烧麦馆(鼓楼店)攻略,龍聚祥烧麦馆(鼓楼店)套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃【携程美食】",
+  "description": "大同龍聚祥烧麦馆(鼓楼店)，携程攻略社区! 收集携程游友对大同龍聚祥烧麦馆(鼓楼店)餐馆的各种评价、印象、点评，餐厅介绍，包含龍聚祥烧麦馆(鼓楼店)套餐、特色菜品推荐、哪个菜好吃、电话、地址、菜单、人均消费、营业时间等信息。要旅行，从携程攻略开始。",
+  "product_links": [],
+  "encoding": "utf-8",
+  "encoding_warning": null,
+  "official_identity_verified": false
+}

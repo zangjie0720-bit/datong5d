@@ -1,0 +1,384 @@
+[
+  {
+    "place_id": "__cover__",
+    "file": "assets/places/yungang-grottoes.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 703,
+    "download_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9bf4952e241a41f08ce0390dc6f8e0d5.jpg",
+    "source_page": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+    "sha256": "eee825f1c6ae988491d383a5ef597c5da1ee9b10fca97a6cd25b1d787529ca73",
+    "source_dimensions": [
+      3000,
+      1318
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true,
+    "reused_from_place_id": "yungang-grottoes"
+  },
+  {
+    "place_id": "datong-ancient-city-gulou-shopping-area",
+    "file": "assets/places/datong-ancient-city-gulou-shopping-area.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1067,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Datong_Gulou_2013.08.29_10-29-57.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Datong_Gulou_2013.08.29_10-29-57.jpg",
+    "sha256": "8b56738e5b8d71a2a33e7e35f925ec681392d5669261c589c24b15cdbc7ab852",
+    "source_dimensions": [
+      5472,
+      3648
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "datong-city-wall",
+    "file": "assets/places/datong-city-wall.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/大同城墙-永胜门城楼.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:大同城墙-永胜门城楼.jpg",
+    "sha256": "9a591c384e7a0741df85f9aab89539b69942861fff753220fc8c834960b16ee1",
+    "source_dimensions": [
+      4032,
+      3024
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "datong-museum",
+    "file": "assets/places/datong-museum.png",
+    "status": "cached",
+    "mime_type": "image/png",
+    "width": 1586,
+    "height": 704,
+    "download_url": "https://ai.dt.gov.cn/dtszf/stdt/201711/4b537049bc12460b97cff19f8879db61/images/33420395aec14af284667464a7226c5c.png",
+    "source_page": "https://ai.dt.gov.cn/dtszf/stdt/201711/4b537049bc12460b97cff19f8879db61.shtml",
+    "sha256": "13ed60c4586ab299f57cd6d92fe7200cac598765751946deed1f9a657c3839fb"
+  },
+  {
+    "place_id": "datong-night-wall-walk",
+    "file": "assets/places/datong-night-wall-walk.jpg",
+    "status": "ok",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/古城墙夜景_-_Night_Scene_of_the_Ancient_City_Wall_-_2015.12_-_panoramio.jpg?width=1280",
+    "source_page": "https://commons.wikimedia.org/wiki/File:古城墙夜景_-_Night_Scene_of_the_Ancient_City_Wall_-_2015.12_-_panoramio.jpg",
+    "sha256": "ef9a203f909efb029c605b97aa2669bf7356c0872310b4bad4e5d9827ebb9783"
+  },
+  {
+    "place_id": "dongfang-daoxiaomian-yingze",
+    "file": "assets/places/dongfang-daoxiaomian-yingze.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh4c12000khgdakdBFC7_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/Datong275/4927787.html",
+    "sha256": "0960557b592b5c18784c60d22c8b75ea8f41ad13758d6d753d909ac50b401bed",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "fahua-temple-datong",
+    "file": "assets/places/fahua-temple-datong.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/法华寺塔（大同）.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:法华寺塔（大同）.jpg",
+    "sha256": "e96688141e628788240ef10df0c87e375b1a3800aa765a686715aa5554cd0a3c",
+    "source_dimensions": [
+      3917,
+      2938
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "fenglinge-gucheng",
+    "file": "assets/places/fenglinge-gucheng.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh7312000fzuku601067_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015762/8639.html",
+    "sha256": "c68d1ff1614bd8c2cf66811cfb67850c6ad720c9c3af63ad64267603e786fa37",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "hanging-temple-boardwalk",
+    "file": "assets/places/hanging-temple-boardwalk.jpg",
+    "status": "ok",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 720,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hangingtemple20190929.jpg?width=1280",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hangingtemple20190929.jpg",
+    "sha256": "e2c3bf138662190d97d875bd67acb3def8c0f89140161f2dfc40cf9194873ea1"
+  },
+  {
+    "place_id": "hanging-temple-hunyuan",
+    "file": "assets/places/hanging-temple-hunyuan.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/山西悬空寺.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:山西悬空寺.jpg",
+    "sha256": "f7d1ee0df1d713600abba1e614db4a6e7492d106634f9fbde1dcade0ceaefb9c",
+    "source_dimensions": [
+      3648,
+      2736
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "huayan-architecture-observation",
+    "file": "assets/places/huayan-architecture-observation.jpg",
+    "status": "ok",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Huayan_Temple_(Datong)_1.jpg?width=1280",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Huayan_Temple_(Datong)_1.jpg",
+    "sha256": "cbc6366599847a7bea46da62113b24661ef56db2eda1a2c3ce364ccf7d9ff60f"
+  },
+  {
+    "place_id": "huayan-temple-datong",
+    "file": "assets/places/huayan-temple-datong.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1197,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20220121_大同_华严寺.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:20220121_大同_华严寺.jpg",
+    "sha256": "00758fbcc52f57e2f4c0fe88586c7bfc82c9839272c9a2635d712b0280bfa14b",
+    "source_dimensions": [
+      4000,
+      2992
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "kaige-zhenxing-street",
+    "file": "assets/places/kaige-zhenxing-street.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/0106912000833zikzAB96_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/Datong275/8683.html",
+    "sha256": "2d3458f8d038ab9bef545544708dc81c5544b0ea92c1923a617017491a093cfc",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "laoyemiao-weidu-avenue",
+    "file": "assets/places/laoyemiao-weidu-avenue.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/100u1c000001cshg492C1_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/8565.html",
+    "sha256": "2f3c28d1a8b23c36e623e0496c1f267b58d06dc893741a7bda7ca47a5dc4cda7",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "longjuxiang-gulou",
+    "file": "assets/places/longjuxiang-gulou.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh0d12000p2tmkixF4CC_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/16622549.html",
+    "sha256": "4c871ed50d96eef2e858d3bf0e141ebc4654a12f05bde9d78aed4b26ecd6607b",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "renji-qizhong-daoxiaomian",
+    "file": "assets/places/renji-qizhong-daoxiaomian.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/0102k1200088lqr42BA83_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/7595486.html",
+    "sha256": "a5c8b0fc8eafe33e74ffe7f2319018e7a71c13b4ce0eaa46293c58fdcd32a8f5",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "shanhua-temple-datong",
+    "file": "assets/places/shanhua-temple-datong.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1065,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/山西大同善化寺.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:山西大同善化寺.jpg",
+    "sha256": "5acee369df4e5f12fa6e2673d9e914f7dd7409b0619340da85c1aded8c348995",
+    "source_dimensions": [
+      6048,
+      4024
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "tianyuan-beiwei-yingbin",
+    "file": "assets/places/tianyuan-beiwei-yingbin.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh5g12000lc443h8570D_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/275/24886429.html",
+    "sha256": "7d6ea9afc43ee10be44beb5ab4812c8f048e0a309e8761f4c699798f36fc1c7a",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "yingxian-pagoda-structure-study",
+    "file": "assets/places/yingxian-pagoda-structure-study.jpg",
+    "status": "ok",
+    "mime_type": "image/jpeg",
+    "width": 900,
+    "height": 1600,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/应县木塔东面.jpg?width=1280",
+    "source_page": "https://commons.wikimedia.org/wiki/File:应县木塔东面.jpg",
+    "sha256": "20130ab35a5c9fe6d71f71b879c50dc591c1c257f4c0feb08a48f17fcdfed5b3",
+    "source_dimensions": [
+      1280,
+      2276
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "yingxian-wooden-pagoda",
+    "file": "assets/places/yingxian-wooden-pagoda.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1071,
+    "height": 1600,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/应县木塔.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:应县木塔.JPG",
+    "sha256": "21c5f87aad4f39bca6724f4d75a2b8d5460118e43f0ea9d5748d4dee9a98e7f2",
+    "source_dimensions": [
+      2592,
+      3872
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "yungang-grottoes",
+    "file": "assets/places/yungang-grottoes.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 703,
+    "download_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9bf4952e241a41f08ce0390dc6f8e0d5.jpg",
+    "source_page": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+    "sha256": "eee825f1c6ae988491d383a5ef597c5da1ee9b10fca97a6cd25b1d787529ca73",
+    "source_dimensions": [
+      3000,
+      1318
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "yungang-official-guided-visit",
+    "file": "assets/places/yungang-official-guided-visit.jpg",
+    "status": "ok",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Buddhas_in_collapsed_cave_Yungang.jpg?width=1280",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Buddhas_in_collapsed_cave_Yungang.jpg",
+    "sha256": "58ff211603798b2e24d3f56556908d98a4fca8fcccf0aefa108e9fc0d868fba9"
+  },
+  {
+    "place_id": "zini-369-sipailou",
+    "file": "assets/places/zini-369-sipailou.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 180,
+    "height": 180,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh1y12000khfjuml5F02_D_180_180.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/Datong275/16204715.html",
+    "sha256": "513874477eff29fb92a75f8b39e76459dcabdd8f6e22985cd6f3bdd06f56d058",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "hengshan-mountain",
+    "file": "assets/places/hengshan-mountain.jpg",
+    "source_page": "https://you.ctrip.com/sight/hunyuan3026/15960.html",
+    "download_url": "https://dimg04.c-ctrip.com/images/0EQ3112000ck9hqjg094F_W_640_10000.jpg?proc=autoorient",
+    "sha256": "72c1bb6a5b8146dd92dbaf54a5def145e55f7b162f3b744b365ebf984d8731e3",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。",
+    "status": "cached",
+    "acquisition_method": "local_import",
+    "network_verified": false,
+    "width": 640,
+    "height": 480,
+    "imported_at": "2026-09-20T04:50:51.366699+00:00"
+  },
+  {
+    "place_id": "hunyuan-yongan-temple",
+    "file": "assets/places/hunyuan-yongan-temple.jpg",
+    "source_page": "https://you.ctrip.com/sight/hunyuan3026/70351197.html",
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh0w12000o7yqs5uAE02_W_640_10000.jpg?proc=autoorient",
+    "sha256": "d4aeffe3287be8959e156c8f72ac3cd9ca7367e9b6d243c588839ea32d347209",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。",
+    "status": "cached",
+    "acquisition_method": "local_import",
+    "network_verified": false,
+    "width": 640,
+    "height": 853,
+    "imported_at": "2026-09-20T04:50:51.372871+00:00"
+  },
+  {
+    "place_id": "hunyuan-yuanjue-pagoda",
+    "file": "assets/places/hunyuan-yuanjue-pagoda.jpg",
+    "source_page": "https://k.sina.cn/article_7067701557_p1a544913500100nzzb.html",
+    "download_url": "https://k.sinaimg.cn/n/sinakd10113/720/w800h720/20200409/4066-iryninw8500571.jpg/w700d1q75cms.jpg",
+    "sha256": "7210303ac85ff9567a60b2289e982ca2d5db740a087cdffca663bd1288338cf0",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。",
+    "status": "cached",
+    "acquisition_method": "local_import",
+    "network_verified": false,
+    "width": 700,
+    "height": 630,
+    "imported_at": "2026-09-20T04:50:51.414253+00:00"
+  },
+  {
+    "place_id": "hunyuan-prefectural-office",
+    "file": "assets/places/hunyuan-prefectural-office.jpg",
+    "source_page": "https://xinwen.bjd.com.cn/content/s69206032d5de2ba1d68b3ada.html",
+    "download_url": "https://static.bjd.com.cn/dams-res-external/mps/image/202511/21/692055d5d5de5f38d75f3846_m.jpg",
+    "sha256": "b55416f67879a87dd19ca7233a84977edbcccd06350d0f8809071a9f9ffa8d2d",
+    "evidence_file": "qa/local-asset-acquisition.md",
+    "acquisition_note": "用户授权后从声明的HTTPS图片地址下载，并已按原始分辨率核对地点主体与水印。",
+    "status": "cached",
+    "acquisition_method": "local_import",
+    "network_verified": false,
+    "width": 1200,
+    "height": 700,
+    "imported_at": "2026-09-20T04:50:51.424817+00:00"
+  }
+]

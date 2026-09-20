@@ -1,0 +1,96 @@
+{
+  "destination": "大同市",
+  "display_name": "大同与晋北古建线",
+  "country": "中国",
+  "year": "2026",
+  "time_anchors": [],
+  "dining_plan": [],
+  "trip": {
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-30",
+    "days": 5,
+    "rhythm": "充实，可接受早上6至7点起床",
+    "travelers": "2名成人，普通同行",
+    "interests": [
+      "经典景点",
+      "自然风景",
+      "历史文化",
+      "建筑与文物摄影"
+    ],
+    "constraints": [
+      "2026-09-26乘D1127次，12:21清河站出发，14:38抵达大同南站；截图显示支付成功",
+      "2026-09-30拟乘G2540次，18:36大同南站出发，20:13抵达清河站；截图为确认订单页，出票状态待确认",
+      "取消隰县小西天及全部临汾转场，五天均以大同及晋北周边为范围",
+      "重点景点需预留拍摄时间",
+      "不采用来源不明的现场讲解",
+      "全程以公共交通为主，优先高铁、景区直通车和当地公交；仅在公共交通无法满足跨城衔接或拍摄时间时列出正规拼车或包车备选",
+      "去程已支付；回程出票状态待确认；住宿未提供，保持待确认",
+      "9月28日悬空寺后加入恒山：优先索道上山；体力充足且天气、开放状态允许时步行下山，否则索道往返；延误或不适立即撤退",
+      "不加入雁门关，保持北魏石窟与辽金古建主线；9月29日交通衔接不佳时优先舍弃浑源州署"
+    ],
+    "quality_mode": "standard"
+  },
+  "cover": {
+    "kicker": "DATONG · NORTHERN SHANXI",
+    "title": "石窟与木构之间",
+    "summary": "以五天串联大同、浑源与应县，从北魏石窟走到辽金木构，并为建筑摄影和古城慢游留下从容停驻。",
+    "image": "assets/places/yungang-grottoes.jpg",
+    "derived_from": "assets/places/yungang-grottoes.jpg",
+    "download_url": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d/images/9bf4952e241a41f08ce0390dc6f8e0d5.jpg",
+    "source_page": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+    "source_type": "official",
+    "media_class": "official_photo",
+    "original_media_class": "official_photo",
+    "visual_subject_type": "landscape",
+    "image_subject": "云冈石窟露天大佛与石窟群",
+    "image_source_page": "https://www.dt.gov.cn/dtszf/imagedatong/202302/39d8c64b33b74f20ab67181e3f98ad8d.shtml",
+    "source_identity_note": "大同市人民政府图片库页面标题为“云冈石窟”；候选图实看为云冈石窟露天大佛及景区环境，3000×1318。",
+    "tags": [
+      "北魏石窟",
+      "辽金古建",
+      "古城慢游",
+      "建筑摄影"
+    ]
+  },
+  "transport": {
+    "status": "pending",
+    "legs": []
+  },
+  "stays": [
+    {
+      "status": "pending",
+      "place_id": null,
+      "check_in": null,
+      "check_out": null,
+      "notes": "9月26日至28日以大同古城西南侧为主；9月28日晚优先住浑源以减少次日折返，具体住宿仍待用户预订确认。"
+    }
+  ],
+  "journey_phases": [
+    {
+      "title": "抵达大同",
+      "dates": "2026-09-26",
+      "description": "D1127于14:38抵达大同南站，按实际到达时间安排善化寺、龙聚祥与古城墙夜景。"
+    },
+    {
+      "title": "石窟与古城",
+      "dates": "2026-09-27",
+      "description": "把完整讲解与摄影时间留给云冈石窟，午后参观华严寺，晚间在古城用餐与看文创。"
+    },
+    {
+      "title": "悬空寺与恒山",
+      "dates": "2026-09-28",
+      "description": "早班前往浑源，先看悬空寺，再执行恒山索道版；优先住浑源，住宿未落实则晚返大同。"
+    },
+    {
+      "title": "浑源古建与应县木塔",
+      "dates": "2026-09-29",
+      "description": "圆觉寺塔、永安寺与浑源州署后转往应县木塔；交通不顺时优先舍弃州署。"
+    },
+    {
+      "title": "市内补漏与返京",
+      "dates": "2026-09-30",
+      "description": "法华寺与善化寺补漏，午餐后取行李，拟乘G2540于18:36从大同南站返京。"
+    }
+  ],
+  "render_bindings_file": "render-bindings.json"
+}

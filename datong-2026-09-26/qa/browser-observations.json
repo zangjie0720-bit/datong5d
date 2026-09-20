@@ -1,0 +1,31 @@
+{
+  "tested_url": "http://127.0.0.1:54302/index.html",
+  "desktop": {
+    "inner_width": 1440,
+    "inner_height": 1000,
+    "horizontal_overflow": false,
+    "cover_visible": true,
+    "contents_present": true
+  },
+  "mobile": {
+    "inner_width": 390,
+    "inner_height": 844,
+    "horizontal_overflow": false,
+    "match_media_mobile": true,
+    "sight_cards": 12,
+    "trip_day_before": "抵达与古城夜色",
+    "trip_day_after": "悬空寺与恒山",
+    "trip_day_stop_count": 5
+  },
+  "interactions": {
+    "disclosures": true,
+    "trip_mode": true,
+    "trip_day_switch": true,
+    "day3_fallback_visible": false,
+    "trip_mode_closed": true
+  },
+  "screenshots": {
+    "desktop": "C:\\Users\\75772\\Desktop\\chicpoint\\00-Inbox\\travel-work\\datong-2026-09-26\\qa\\browser-desktop.png",
+    "mobile": "C:\\Users\\75772\\Desktop\\chicpoint\\00-Inbox\\travel-work\\datong-2026-09-26\\qa\\browser-mobile.png"
+  }
+}
